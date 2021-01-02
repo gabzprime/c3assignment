@@ -10,3 +10,5 @@ do_assignment()
 ```
 
 It is assumed that the [samsung dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) is in your working directory.
+
+There is [a codebook](https://github.com/gabzprime/c3assignment/blob/master/codebook.md) for the output dataset.
